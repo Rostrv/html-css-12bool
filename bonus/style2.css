@@ -1,0 +1,58 @@
+[class^="col"] {
+    background-color: #006CFA;
+    height: 50px;
+    display: flex;
+}
+
+.container {
+    width: 40%;
+    margin: auto;
+}
+
+.black {
+    background-color: black;
+}
+
+.darkred {
+    background-color: #b81414;
+}
+
+.lightred {
+    background-color: #dd2222;
+}
+
+.brillred {
+    background-color: #ff2626;
+}
+
+.skin {
+    background-color: #ebaa56;
+}
+
+.lighterskin {
+    background-color: #f0c185;
+}
+
+.brown {
+    background-color: rgb(146, 98, 35);
+}
+
+.orange {
+    background-color: rgb(224, 152, 16);
+}
+
+.yellow {
+    background-color: rgb(214, 200, 0);
+}
+
+.white {
+    background-color: white;
+}
+
+.darkblue {
+    background-color: #0048a7;
+}
+
+.darkerblue {
+    background-color: #607ca1;
+}
