@@ -1,0 +1,25 @@
+[class^="col"] {
+    background-color: #006CFA;
+    border: 1px solid white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+}
+
+.container-small {
+    width: 95%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+}
+
+.nested {
+    border: 1px solid #006CFA;
+    color: white;
+    font-size: 12px;
+    background-color: #00E165;
+    height: 80%;
+}
