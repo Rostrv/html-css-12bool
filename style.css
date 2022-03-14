@@ -23,3 +23,12 @@
     background-color: #00E165;
     height: 80%;
 }
+
+.col-12-title {
+    background-color: transparent;
+    color: black;
+}
+
+.offset {
+    justify-content: flex-end;
+}
