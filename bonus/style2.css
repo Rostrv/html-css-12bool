@@ -4,9 +4,13 @@
     display: flex;
 }
 
+body {
+    background-color: #006CFA;
+}
+
 .container {
     width: 40%;
-    margin: auto;
+    margin: 30px auto
 }
 
 .black {
